@@ -9,6 +9,7 @@ class Dog
   end
   
   # this method is responsible for reporting, or reading the dog's name!
+  # getter
   def name
     this_dogs_name
   end
