@@ -7,6 +7,7 @@ class Dog
     this_dogs_name = dog_name
   end
   
+  # this method is responsible for reporting, or reading the dog's name!
   def name
     this_dogs_name
   end
